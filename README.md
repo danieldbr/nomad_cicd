@@ -14,4 +14,4 @@ This project focuses on developing a CI/CD pipeline that creates ephemeral names
 - `Dockerfile`: The Dockerfile to build the Flask application image.
 - `flask-webserver.nomad`: The Nomad job specification file.
 - `requirements.txt`: Python dependencies file.
-- `.github/workflows/ci-cd.yml`: GitHub Actions workflow for CI/CD.
+- `.github/workflows/cicd.yml`: GitHub Actions workflow for CI/CD.
