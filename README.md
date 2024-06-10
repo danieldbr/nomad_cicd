@@ -3,6 +3,9 @@ This repository contains a simple Python Flask web server and a CI/CD pipeline u
 
 # Project Overview
 This project focuses on developing a CI/CD pipeline that creates ephemeral namespaces and provides external access to a "Hello World" HTTP application.
+<br>
+<br>
+Ephemeral namespaces provide a convenient solution for development and testing by offering isolated environments that automatically clean up resources upon completion, ensuring optimal resource utilization, and simplified management.
 
 ## Status
 - **Simple CI/CD:** Completed ✅
